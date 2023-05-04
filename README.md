@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/Silviojrlacerda">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Silviojrlacerda&count_public=true&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Silviojrlacerda&count_public=true&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silviojrlacerda&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&layout=compact&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
   </a>
 </div>
